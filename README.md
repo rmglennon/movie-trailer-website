@@ -1,10 +1,10 @@
-# Movie trailer website in Python
+# A movie trailer website in Python
 
 This project builds a website that shows poster art and previews for some of my favorite movies.
 
 Code is written for Python 2.7. 
 
-Note: fresh_tomatoes.py is from https://github.com/udacity/ud036_StarterCode.
+Note: `fresh_tomatoes.py` is from https://github.com/udacity/ud036_StarterCode.
 
 ## To view the website
 
