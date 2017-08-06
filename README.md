@@ -12,3 +12,5 @@ Note: `fresh_tomatoes.py` is from https://github.com/udacity/ud036_StarterCode.
 2. Open the `entertainment_center.py` file in Python IDLE.
 3. Click `Run > Run Module`. 
 4. If successful, your system's default browser should open and display the website. Click any of the movies to play a video of the movie's trailer from YouTube.
+
+![Screenshot of the website](website_screenshot.PNG)
